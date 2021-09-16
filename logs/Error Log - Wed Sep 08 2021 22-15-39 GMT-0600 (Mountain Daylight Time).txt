@@ -1,0 +1,17 @@
+Wed Sep 08 2021 22:15:39 GMT-0600 (Mountain Daylight Time)
+
+Command: direct
+Full: direct hi
+Guild: [Testing] Clancy I & II (758211168019415101)
+Caller: Irii#0001 (264886440771584010)
+TypeError: message.mentions.roles.firt is not a function
+    at Object.execute (S:\Ascension League\bots\acl_bot\commands\constructors\direct.js:20:45)
+    at Client.<anonymous> (S:\Ascension League\bots\acl_bot\main.js:160:23)
+    at Client.emit (node:events:406:35)
+    at MessageCreateAction.handle (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\client\websocket\WebSocketShard.js:301:10)
+    at WebSocket.onMessage (S:\Ascension League\bots\acl_bot\node_modules\ws\lib\event-target.js:132:16)
+    at WebSocket.emit (node:events:394:28)

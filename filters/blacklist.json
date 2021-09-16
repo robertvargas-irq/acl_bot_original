@@ -1,0 +1,13 @@
+{
+    "slursStrict" : [
+        "nig", "nigs", "nigger", "niggers", "nigga", "niggas", "nigguh", "nigguhs", "nigward", "nigwards",
+        "niglet", "niglets", "nigglet", "nigglets",
+        "negroid", "negroids", "negro", "negros", "negroes",
+        "kneeguard", "kneeguards", "kneegur", "kneegurs",
+        "fag", "fags", "faggot", "faggots"
+    ],
+
+    "slursSensitive" : ["igga"],
+
+    "politics" : ["trump", "patriot", "liberal", "conservative", "democrat", "republican", "fake news", "realdonaldtrump"]
+}

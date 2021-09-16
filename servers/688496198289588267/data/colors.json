@@ -1,0 +1,9 @@
+{
+    "neutral":"#d69f9a",
+    "negative":"#5c1313",
+    "positive":"#d179b1",
+    "welcomeBanner":"#d69f9a",
+    "leaveBanner":"#402c1d",
+    "rosterAdd":"#e6a29c",
+    "rosterRemove":"#7d6c68"
+}

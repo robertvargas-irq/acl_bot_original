@@ -1,0 +1,8 @@
+Thu Sep 09 2021 23:37:52 GMT-0600 (Mountain Daylight Time)
+
+DiscordAPIError: Unknown Message
+    at RequestHandler.execute (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\rest\RequestHandler.js:154:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\rest\RequestHandler.js:39:14)
+    at async MessageManager.delete (S:\Ascension League\bots\acl_bot\node_modules\discord.js\src\managers\MessageManager.js:126:5)
