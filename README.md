@@ -1,8 +1,8 @@
-# `(DEPRECATED)` Original RIFT Valorant League Discord Bot
+# `(DEPRECATED)` Original `[NAME CHANGE PENDING]` Valorant League Discord Bot
 
 ## Brief overview
 `This project is no longer being updated as the focus has been shifted to the rewritten upgrade "CLN-C."`<br>
-This is the official Discord Bot for the Discord server and professional Rainbow Six League by the name of RIFT.
+This is the official Discord Bot for the Discord server and professional Rainbow Six League by the name of `[NAME CHANGE PENDING]`.
 
 This feature-rich bot contains full moderation commands to keep the server and community in line, chat filter, user-friendly roster and team management, customizable news feed with role-pickers to choose which notifications you receive, administrative functions to send official announcements either through direct message or to the public server. Additionally, a database to store team information such as team ID, players (user IDs), roster, cosmetic options, and game data collected throughout the season, as well as fully-fledged Vanity User Profiles, containing in-game statistics for each user, custom biographies, colors, pronouns, and other forms of personal expression.
 
